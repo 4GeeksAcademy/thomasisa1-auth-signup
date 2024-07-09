@@ -1,3 +1,13 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
